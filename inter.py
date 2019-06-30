@@ -1,0 +1,11 @@
+from sek import prediksi
+
+
+    
+    
+
+
+
+
+
+
